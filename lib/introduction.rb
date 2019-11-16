@@ -52,7 +52,7 @@ end
 
 def 
 introduction_with_language_optional(pledge,python = Ruby)
-puts  
+puts  "Hi, my name is #{pledge} and I am learning to program in #{python}."
 
 end
 
